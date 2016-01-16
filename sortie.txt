@@ -1,0 +1,136 @@
+Ce tableau a été crée avec les infos de: [http://linuxgizmos.com/ringing-in-2016-with-64-open-spec-hacker-friendly-sbcs/ linuxgizmos.com]
+
+
+{|class="wikitable sortable" style="text-align:center;"
+|+ Micro-Ordinateurs
+! Nom||Fabriquant||Site||Page produit||Processeur||Mémoire||Prix||Sortie Vidéo||Sortie SON||WIFI||Reseau||Bluetooth
+|-
+|86Duino / 86Duino One|| DM&P, 86Duino.com||[http://linuxgizmos.com/arduino-compatible-boardset-runs-linux-on-x86/  Lien]||[http://www.86duino.com/index.php?p=68 Lien]||P Vortex86EX (1x x86 @ 300MHz) || 128MB RAM|| $39 (Zero), $69 (One)||11||22||33||44||55
+|-
+|A10-OlinuXino-Lime|| Olimex, OlinuXino, Mouser||[https://www.olimex.com/Products/OlinuXino/A10/A10-OlinuXino-LIME/open-source-hardware Lien]|| Allwinner A10 (1x Cortex-A8 @ 1GHz)|| Mali-400 GPU|| 512MB DDR3 RAM|| $33 (30 Euros)||11||22||33||44||55
+|-
+|A20-OlinuXino-Micro ||Olimex, OlinuXino, Mouser||[http://linuxgizmos.com/open-sbc-runs-linux-and-android-allwinner-a20-soc/"  Lien]||[https://www.olimex.com/Products/OlinuXino/A20/A20-OlinuXino-MICRO/open-source-hardware" Lien]|| Allwinner A20 (2x Cortex-A7 @ 1GHz) Mali-400 GPU|| 1GB DDR3 RAM  optional 4GB NAND flash with preloaded Android|| $60 (55 Euros)||11||22||33||44||55
+|-
+|Andromeda Box Edge|| Marvell||[https://www.arrow.com/en/products/rd-andromeda-140-01/marvell-semiconductor#page-1"  Lien]|| Marvell IAP140 (4x Cortex-A53 cores @ 1.2GHz)|| Vivante GC7000UL GPU|| 1GB LPDDR3 RAM  8GB eMMC|| $75||11||22||33||44||55
+|-
+|Arduino Yún Mini || Arduino Srl||[http://linuxgizmos.com/arduino-shrinks-linux-ready-yun-to-mini-size/"  Lien]||[http://arduino.org/products/arduino-yun-mini"  Lien]|| Qualcomm Atheros AR9331 (1x MIPS24k @ up to 400MHz)|| 64MB DDR2 RAM|| $60||11||22||33||44||55
+|-
+|Arndale Octa|| ArndaleBoard.org, InSignal, Pyrustek||[http://www.pyrustek.com/us/ Lien]|| Samsung Exynos 5420 Octa (4x Cortex-A15 @ 1.8GHz and 4x Cortex-A7 @ 1.3GHz)|| ARM Mali T-628 MP6 GPU|| 3GB LPDDR3e RAM|| $199||11||22||33||44||55
+|-
+|Banana Pi M2|| SinoVoip||[http://linuxgizmos.com/banana-pi-project-forks-as-competing-gen-2-sbcs-emerge/"  Lien]||[http://tinyonestore.com/products/banana-pi-m2-quad-core-board"  Lien]|| Allwinner A31 (4x Cortex-A7 @ 1GHz)|| PowerVR SGX544MP2 GPU  1GB DDR3 RAM|| $58||11||22||33||44||55
+|-
+|Banana Pi M3|| SinoVoip||[http://www.banana-pi.org/m3.html"  Lien]|| Allwinner A83T (8x Cortex-A7 @ 2GHz)|| PowerVR SGX544MP1 GPU|| 2GB LPDDR3 RAM|| $88||11||22||33||44||55
+|-
+|Banana Pro || LeMaker||[http://linuxgizmos.com/banana-pi-project-forks-as-competing-gen-2-sbcs-emerge/"  Lien]||[http://www.lemaker.org/"  Lien]|| Allwinner A20 (2x Cortex-A7 @ 1GHz)  Mali-400 MP2 GPU|| 1GB DDR3 RAM|| $48||11||22||33||44||55
+|-
+|BeagleBone Black|| BeagleBone.org, CircuitCo||[http://linuxgizmos.com/beaglebone-black-rev-c-doubles-flash-moves-to-debian/"  Lien]||[http://beagleboard.org/BLACK"  Lien]|| TI Sitara AM3358 (1x Cortex-A8 @ 1GHz)|| 512MB RAM  4GB flash|| $50||11||22||33||44||55
+|-
+|BeagleBone Green|| Seeed Studios with BeagleBoard.org||[http://linuxgizmos.com/beaglebone-green-drops-the-hdmi-and-the-price/"  Lien]||[http://www.seeed.cc/beaglebone_green/"  Lien]|| TI Sitara AM3358 (1x Cortex-A8 @ 1GHz)|| 512MB RAM  4GB flash|| $39||11||22||33||44||55
+|-
+|Chip|| Next Thing Co.||[http://linuxgizmos.com/hackable-arm-linux-sbc-starts-at-9/"  Lien]||[http://nextthing.co/"  Lien]|| Allwinner R8 (1x Cortex-A8 @ 1GHz)  Mali-400 GPU|| 512MB DDR3 RAM 4GB flash|| $9||11||22||33||44||55
+|-
+|ClearFog Pro ||SolidRun||[http://linuxgizmos.com/sbc-packs-six-port-gbe-switch-runs-linux-on-armada-38x-soc/"  Lien]||[http://solid-run.com/marvell-armada-family/clearfog/"  Lien]|| Marvell Armada 38x 88F6810 or 88F6828 (1x or 2x Cortex-A9 @ 1.3GHz or 1.6GHz for both)|| 256MB, expandable to 1GB (single-core) or 2GB (dual) DDR3L RAM  optional eMMC or microSD card|| $170 to $240||11||22||33||44||55
+|-
+|CloudBit|| LittleBits Electronics||[http://linuxgizmos.com/tiny-linux-sbc-taps-plug-and-play-iot-modules/"  Lien]||[http://littlebits.cc/bits/cloudbit"  Lien]|| NXP i.MX233 (1x ARM9 @ 454MHz)|| 64MB RAM  4GB microSD card|| $60||11||22||33||44||55
+|-
+|Creator CI40|| Imagination Technologies||[http://linuxgizmos.com/creator-ci40-sbc-runs-openwrt-debian-brillo-on-dual-core-mips/"  Lien]||[http://store.imgtec.com/"  Lien]|| Imagination cXT200 (2x MIPS InterAptiv cores @ 550MHz)|| 256MB DDR3 RAM  512MB flash|| $53 to $120 with Click module add-ons||11||22||33||44||55
+|-
+|Cubieboard3 (CubieTruck)|| Cubieboard.org, Wang and Tom Development, Ltd.||[http://linuxgizmos.com/cubieboard2-sbc-ships-cubietruck-nears-release/"  Lien]||[http://store.r0ck.me/products/cubietruck-2gb-ram-8gb-flash-with-wifi-bt"  Lien]|| Allwinner A20 (2x Cortex-A7 @ 1GHz)  Mali-400 GPU  ||2GB DDR3 RAM, optional NAND or TSD flash|| $75 to $86||11||22||33||44||55
+|-
+|Cubieboard4||Cubieboard.org, Wang and Tom Development, Ltd.||[http://linuxgizmos.com/allwinner-octa-core-a80-tightens-its-sbc-grip/"  Lien]||[http://store.r0ck.me/collections/cubieboard-and-addons/products/cubieboard4-cc-a80-high-performance-mini-pc"  Lien]|| Allwinner A80 (4x Cortex-A15 @ up to 2GHz, 4x Cortex-A7 cores @ up to 1.3GHz)  PowerVR G6230 GPU|| 2GB DDR3 RAM, 8GB eMMC, expandable to 64GB|| $125||12||23||34||45||56
+|-
+|Domino Pi Basic Kit|| GL Innovations||[http://linuxgizmos.com/open-source-iot-kit-runs-openwrt-mimics-arduino-yun/"  Lien]||[http://domino.io/"  Lien]|| Qualcomm Atheros AR9331 (1x MIPS24k @ up to 400MHz)|| 64MB DDR2 RAM|| $24 and up||13||24||35||46||57
+|-
+|DPT-Board|| DPTechnics||[http://linuxgizmos.com/low-cost-openwrt-sbc-targets-educational-apps/"  Lien]||[https://dptechnics.com/shop/index.php?route=product/category&#038 Lien]|| Qualcomm Atheros AR9331 (1x MIPS24k @ up to 400MHz)|| 64MB DDR2 RAM|| $55 ($64 for Plus version)||14||25||36||47||58
+|-
+|DragonBoard 410c||[http://linuxgizmos.com/tiny-sbc-runs-android-and-linux-on-snapdragon-410/"  Lien]|| Qualcomm||[https://developer.qualcomm.com/mobile-development/development-devices/dragonboard/410c"  Lien]|| Snapdragon 410 (4x Cortex-A53 @ 1.2GHz)  Adreno 306 GPU|| 1GB LPDDR3 RAM 8GB eMMC flash|| $75||15||26||37||48||59
+|-
+|Edison Kit for Arduino|| Intel||[http://linuxgizmos.com/edison-iot-module-ships-with-atom-plus-quark-combo-soc/  Lien]||[https://software.intel.com/en-us/videos/intel-edison-kit-for-arduino-unboxing-and-assembly  Lien]|| Intel Atom&#8220  (2x x86 @ 500MHz)- Quark coprocessor|| 1GB LPDDR3 RAM 4GB eMMC flash|| $85||16||27||38||49||60
+|-
+|Firefly FirePrime|| Firefly||[http://en.t-firefly.com/en/firenow/fireprime/"  Lien]|| Rockchip RK3128 (4x Cortex-A7 @ 1.3GHz)|| Mali-4000 MP2 GPU|| 1GB LPDDR2 RAM  8GB flash|| $70||17||28||39||50||61
+|-
+|Firefly-RK3288|| Firefly||[http://en.t-firefly.com/en/firenow/firefly_rk3288/specifications/"  Lien]|| Rockchip RK3288 (4x Cortex-A17 @ 1.8GHz)|| Mali-T760 GPU|| 2GB DDR3 RAM (16GB flash) or for Plus model, 4GB DDR3 RAM (32GB flash)|| $160 or $260 (Plus)||18||29||40||51||62
+|-
+|Galileo Gen 2|| Intel||[http://linuxgizmos.com/intel-unveils-second-generation-galileo-hacker-sbc/"  Lien]||[http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html"  Lien]|| Intel Quark X1000 (1x Pentium-compatible @ 400MHz)|| 256MB DRAM|| $41||19||30||41||52||63
+|-
+|Gizmo 2|| AMD, GizmoSphere.org, SemiconductorStore.com||[http://linuxgizmos.com/amd-gizmo-2-sbc-powers-up-with-g-series-soc/"  Lien]||[http://www.gizmosphere.org/"  Lien]|| AMD G-Series GX210HA SoC (2x x86 @ 1GHz) Radeon HD 800 Graphics|| 1GB DDR3 SDRAM|| $189||20||31||42||53||64
+|-
+|HiKey|| 96Boards.org (Linaro), CircuitCo, Avnet, Arrow|| separate model from LeMaker||[http://linuxgizmos.com/linaro-launches-open-arm-sbc-spec-and-an-octa-core-sbc/"  Lien]|| HiSilicon Kirin 6220 (8x Cortex-A53 @ 1.2GHz)- Mali 450-MP4 GPU|| 1GB LPDDR3 RAM and 4GB or 8GB eMMC (CircuitCo)  2GB LPDDR3 RAM and 8GB eMMC (LeMaker)|| $99||21||32||43||54||65
+|-
+|HummingBoard-Base/Pro|| SolidRun||[http://linuxgizmos.com/i-mx6-hacker-board-features-m-2-and-wide-range-power/"  Lien]||[http://solid-run.com/freescale-imx6-family/hummingboard/"  Lien]|| NXP i.MX6 Solo, DualLite, Dual, or Quad (1x, 2x, 2x, or 4x Cortex-A9 @ up to 1.2GHz) various Vivante 2D/3D GPUs|| Solo (512MB), DualLite and Dual (1GB), and Quad (2GB) DDR3 RAM|| $70 to $130 (Base), $85 to $210 (Pro)||22||33||44||55||66
+|-
+|HummingBoard-Edge|| SolidRun||[http://linuxgizmos.com/i-mx6-hacker-board-features-m-2-and-wide-range-power/"  Lien]||[http://solid-run.com/product/hummingboard-edge/"  Lien]|| NXP i.MX6 Solo, DualLite, Dual, or Quad (1x, 2x, 2x, or 4x Cortex-A9 @ up to 1.2GHz) various Vivante 2D/3D GPUs|| Solo (512MB), DualLite and Dual (1GB), and Quad (2GB or 4GB) DDR3 RAM|| $102 to $252||23||34||45||56||67
+|-
+|HummingBoard-Gate|| SolidRun||[http://linuxgizmos.com/latest-hummingboard-sbc-drops-price-supports-click-add-ons/"  Lien]||[http://solid-run.com/freescale-imx6-family/hummingboard/hummingboard-gate/"  Lien]|| NXP i.MX6 Solo, DualLite, Dual, or Quad (1x, 2x, 2x, or 4x Cortex-A9 @ up to 1.2GHz)- various Vivante 2D/3D GPUs|| Solo (512MB), DualLite and Dual (1GB), and Quad (2GB or 4GB) DDR3 RAM|| $70 to $235||24||35||46||57||68
+|-
+|Inforce 6410Plus|| Inforce Computing||[http://linuxgizmos.com/pico-itx-snapdragon-600-sbc-upgrade-adds-features/"  Lien]||[http://www.inforcecomputing.com/products/single-board-computers/6410-plus-single-board-computer-sbc"  Lien]|| Qualcomm Snapdragon 600 (4x “Krait” cores clocked at 1.7GHz) Adreno 320 GPU QDSP6V4 DSP|| 2GB PCDDR3 RAM  4GB eMMC flash|| $143||25||36||47||58||69
+|-
+|LeMaker Guitar|| LeMaker||[http://www.lenovator.com/product/91.html"  Lien]|| Actions S500 (4x Cortex-A9 @ up to 1.6GHz)|| PowerVR SGX544 GPU|| 1GB or 2GB DDR3 RAM  8GB flash|| $44.90||26||37||48||59||70
+|-
+|LinkIt Smart 7688|| MediaTek Labs, Seeed Studio|||| MediaTek MT7688AN (1x MIPS core @ 580MHz)|| Atmel ATmega32U4 MPU (Duo only)|| 128MB RAM  32MB flash|| $12.90 or $15.90 (Duo)||27||38||49||60||71
+|-
+|LinkSprite Acadia V3|| LinkSprite Technologies||[http://linuxgizmos.com/pcduino-acadia-1-sbc-runs-linux-and-android-on-imx6-quad/"  Lien]||[http://store.linksprite.com/acadia-v3-quad-core-i-mx6/"  Lien]|| NXP i.MX6 Quad (4x Cortex-A9 @ up to 1.2GHz) Vivante GC355 GPU|| 1GB DRAM|| $119||28||39||50||61||72
+|-
+|LinkSprite Arches|| LinkSprite Technologies||[http://linuxgizmos.com/allwinner-octa-core-a80-tightens-its-sbc-grip/"  Lien]||[http://store.linksprite.com/linksprite-arches-single-board-computer-pcduino8-beta/"  Lien]|| Allwinner A80 (4x Cortex-A15 @ up to 2GHz, 4x Cortex-A7 cores @ up to 1.3GHz) PowerVR G6230 GPU|| 2GB DRAM  8GB flash|| $99||29||40||51||62||73
+|-
+|MarsBoard AM335x|| Haoyu Electronics, MarsBoard.com||[http://www.marsboard.com/marsboard_am335x_feature.html"  Lien]|||| TI Sitara AM3358 (1x Cortex-A8 @ 1GHz)|| 512MB DDR3 RAM  4GB eMMC flash|| $74.90||30||41||52||63||74
+|-
+|MarsBoard RK3066|| Haoyu Electronics, MarsBoard.com||[http://linuxgizmos.com/modular-sbc-runs-android-and-picuntu-on-cortex-a9/"  Lien]||[http://www.marsboard.com/marsboard_rk3066_feature.html"  Lien]|| Rockchip RK3066 (2x Cortex-A9 @ 1.6GHz)  Mali-400 GPU|| 1GB DDR3 RAM 4GB eMMC flash|| $58||31||42||53||64||75
+|-
+|MarsBoard RK3066 Pro|| Haoyu Electronics, MarsBoard.com||[http://www.wvshare.com/product/MarsBoard-RK3066-Pro.htm"  Lien]|||| Rockchip RK3066 (2x Cortex-A9 @ 1.6GHz) Mali-400 GPU|| 1GB DDR3 RAM  4GB eMMC flash|| $140||32||43||54||65||76
+|-
+|MinnowBoard Max Turbot|| Intel, ADI, MinnowBoard.org||[http://linuxgizmos.com/enhanced-open-source-minnowboard-makes-a-splash-at-idf/"  Lien]||[http://www.adiengineering.com/products/minnowboard-turbot/"  Lien]|| Intel Atom E3826 (2x x86 @ 1.46GHz) Intel HD Graphics|| 2GB DDR3L RAM|| $140||33||44||55||66||77
+|-
+|Odroid-C1+|| Hardkernel, Odroid project||[http://linuxgizmos.com/hardkernel-tweaks-its-popular-odroid-c1-pi-clone/"  Lien]||[http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143703355573"  Lien]|| Amlogic S805 (4x Cortex-A5 @ 1.5GHz) Mali-450 GPU|| 1GB DDR3 RAM|| $39||34||45||56||67||78
+|-
+|Odroid-XU4|| Hardkernel, Odroid project||[http://linuxgizmos.com/79-dollar-octacore-sbc-runs-ubuntu-and-android/"  Lien]||[http://www.hardkernel.com/main/products/prdt_info.php"  Lien]|| Samsung Exynos5422 (4x Cortex-A15 @ 2.0GHz and 4x Cortex-A7 @ 1.4GHz) Mali-T628 MP6 GPU|| 2GB LPDDR3 RAM|| $74||35||46||57||68||79
+|-
+|Orange Pi 2 / Orange Pi Mini 2|| Shenzhen Xunlong Software||[http://www.orangepi.org/"  Lien]||[http://www.orangepi.org/ Lien]|| Allwinner H3 (4x Cortex-A7 @ 1.6GHz) ARM Mali-400 MP2 GPU|| 1GB DDR3 RAM|| $30 ($25 for Mini)||36||47||58||69||80
+|-
+|Orange Pi PC|| Shenzhen Xunlong Software||[http://www.orangepi.org/orangepipc/"  Lien]||[http://www.orangepi.org/orangepipc/ Lien]|| Allwinner H3 (4x Cortex-A7 @ 1.6GHz) ARM Mali-400 MP2 GPU|| 1GB DDR3 RAM|| $15||37||48||59||70||81
+|-
+|Orange Pi Plus2|| Shenzhen Xunlong Software||[http://www.orangepi.org/orangepiplus2/"  Lien]||[http://www.orangepi.org/orangepiplus2/ Lien]|| Allwinner H3 (4x Cortex-A7 @ 1.6GHz) PowerVR SGX544MP2 GPU|| 2GB DDR3 RAM – 8GB eMMC flash|| $49||38||49||60||71||82
+|-
+|Parallella|| Adapteva, Parallella.org||[http://linuxgizmos.com/academic-program-offers-free-parallella-boards/"  Lien]||[http://www.parallella.org/"  Lien]|| Xilinx Zynq-7020 or -7010 SoC (2x Cortex-A9 @ 667MHz plus FPGA) 16-core Epiphany RISC chip|| 1GB DDR3 RAM|| $99||39||50||61||72||83
+|-
+|pcDuino Lite/Lite WiFi|| LinkSprite Technologies||[http://store.linksprite.com/pcduino-lite-a-minipc-with-arduino-headers-ubuntu/"  Lien]|||| Allwinner A10 (1x Cortex-A8 @ 1GHz) Mali-400 GPU|| 512MB (Lite) or 256MB (Lite WiFi) no flash (Lite) or 2GB flash (Lite WiFi)|| $29 each||40||51||62||73||84
+|-
+|pcDuino3Nano/Nano Lite|| LinkSprite Technologies||[http://linuxgizmos.com/hackable-39-allwinner-a20-sbc-packs-hdmi-and-gbe/"  Lien]||[http://store.linksprite.com/pcduino3-nano/"  Lien]||Allwinner A20 (2x Cortex-A7 @ 1GHz) Mali-400 GPU|| 1GB DRAM 4GB flash (none on Lite)|| $40 ($35 for Lite)||41||52||63||74||85
+|-
+|pcDuino8 Uno|| LinkSprite Technologies||[http://store.linksprite.com/pcduino8-uno/"  Lien]|| Allwinner H8 (8x Cortex-A7 @ 2GHz) Power VR SG544 GPU|| Allwinner H8 (8x Cortex-A7 @ 2GHz) Power VR SG544 GPU|| 1GB DRAM|| $49||42||53||64||75||86
+|-
+|Pine A64|| Code||[http://linuxgizmos.com/15-dollar-sbc-features-quad-core-64-bit-allwinner-a4-pi-expansion/"  Lien]||[https://www.kickstarter.com/projects/pine64/pine-a64-first-15-64-bit-single-board-super-comput"  Lien]|| Allwinner A64 (4x Cortex-A53 cores @ 1.2GHz) ARM Mali400-MP2 GPU|| 512MB (standard), 1GB ($19 Plus), 2GB ($29 Plus) DDR3 RAM|| $15 to $29 ||43||54||65||76||87
+|-
+|PixiePro|| Code||[http://linuxgizmos.com/open-spec-i-mx6-quad-sbc-is-bursting-with-wireless-io/"  Lien]||[https://store.treats4geeks.com/index.php/pixiepro-6.html"  Lien]|| NXP i.MX6 Quad (4x Cortex-A9 @ up to 1.0GHz) Vivante 2D/3D GPU|| 2GB DDR3 RAM|| $130||44||55||66||77||88
+|-
+|Radxa Rock Pro / Rock Lite|| Radxa||[http://linuxgizmos.com/open-sbc-runs-android-and-linux-on-quad-core-rockchip/"  Lien]||[http://radxa.com/Rock/specifications"  Lien]|| Rockchip RK3188 (4x Cortex-A9 @ 1.6GHz) Mali-400 GPU|| 2GB DDR3 RAM 8GB NAND flash(1GB/4GB on Radxa Rock Lite)|| $99 (Pro) $59 (Lite)||45||56||67||78||89
+|-
+|Radxa Rock 2 Square|| Radxa||[http://radxa.com/Rock2"  Lien]|| Rockchip RK3288 (4x Cortex-A17 @ 1.6GHz)|| Mali-T764 GPU|| 2GB DDR3 RAM (4GB on SOM-B model) 16GB eMMC flash (32GB on SOM-B model)|| $129||46||57||68||79||90
+|-
+|Raspberry Pi Model A+|| Raspberry Pi Foundation||[http://linuxgizmos.com/tiny-raspberry-pi-a-sbc-goes-for-20/"  Lien]||[http://www.mcmelectronics.com/content/en-US/raspberry-pi"  Lien]|| Broadcom BCM2835 (1x ARM11 @ 700MHz) Broadcom VideoCore IV GPU||256MB SDRAM|| $20||47||58||69||80||91
+|-
+|Raspberry Pi Model B+|| Raspberry Pi Foundation||[http://linuxgizmos.com/raspberry-pi-model-b-plus-price-drops-to-25-dollars/"  Lien]||[http://www.raspberrypi.org/"  Lien]|| Broadcom BCM2835 (1x ARM11 @ 700MHz) Broadcom VideoCore IV GPU|| 512MB SDRAM|| $25||48||59||70||81||92
+|-
+|Raspberry Pi 2 Model B|| Raspberry Pi Foundation||[http://linuxgizmos.com/raspberry-pi-gets-quad-core-soc-keeps-same-price/"  Lien]||[http://www.raspberrypi.org/"  Lien]|| Broadcom BCM2836 (4x Cortex-A7 @ 900MHz)Broadcom VideoCore IV GPU|| 1GB SDRAM|| $35||49||60||71||82||93
+|-
+|Raspberry Pi Zero|| Raspberry Pi Foundation||[http://linuxgizmos.com/tiny-5-dollar-raspberry-pi-zero-keeps-it-simple/"  Lien]||[https://www.adafruit.com/products/2885"  Lien]|| Broadcom BCM2835 (1x ARM1176JZFS core @ 1GHz) with FPU and VideoCore IV dual-core GPU|| 512MB SDRAM|| $5 and up||50||61||72||83||94
+|-
+|Rico Board|| MYIR||[http://linuxgizmos.com/io-rich-sbc-runs-linux-on-cortex-a9-sitara-soc/"  Lien]||[http://www.myirtech.com/list.asp?id=510"  Lien]|| TI AM437x (1x Cortex-A9 core @ up to 1GHz) PowerVR SGX530 GPU|| 512MB DDR3 RAM (alternatively 256MB or 1GB) 4GB eMMC flash  256MB or 512MB SLC NAND flash (reserved)|| $99||51||62||73||84||95
+|-
+|RioTboard|| Newark Element14, RioTboard.org||[http://linuxgizmos.com/open-source-iot-sbc-cortex-a9-linux-android/"  Lien]||[http://www.newark.com/riotboard/mcimx6-solo/unknown/dp/07X2279?ost=riotboard"  Lien]|| NXP i.MX6 Solo (1x Cortex-A9 @ up to 1GHz)|| 1GB DDR3 RAM 4GB eMMC flash|| $79||52||63||74||85||96
+|-
+|SAMA5D4 Xplained|| Newark Element14, Atmel||[http://linuxgizmos.com/low-cost-cortex-a5-dev-board-accepts-arduino-shields/"  Lien]||[http://www.element14.com/community/docs/DOC-73554/l/sama5d4-xplained-ultra"  Lien]|| Atmel SAMA5D4 (1x Cortex-A5 @ 528MHz)|| 512MB DDR2 RAM 512MB NAND flash|| $93.50||53||64||75||86||97
+|-
+|Snickerdoodle|| Krtkl||[http://linuxgizmos.com/zynq-based-hacker-board-has-fpga-bt-and-wifi-too/"  Lien]||[http://krtkl.com/"  Lien]|| Xilinx Zynq-7020 or -7010 SoC (2x Cortex-A9 @ 667MHz plus FPGA) STM32 microcontroller|| 512MB or 1GB ($10) DDR3 RAM|| $62 and up with free US shipping||54||65||76||87||98
+|-
+|Udoo Neo|| Udoo (Seco supported)||[http://linuxgizmos.com/iot-ready-udoo-hacker-sbc-starts-at-49/"  Lien]||[http://shop.udoo.org/usa/neo.html?___from_store=other&#038 Lien]|| NXP i.MX6 SoloX (1x Cortex-A9 @ 1GHz) Cortex-M4 MCU Vivante GPU|| 512MB DDR3L RAM (1GB on Plus version)|| $49.90 (Basic) $59.90 (Extended), $64.90 (Full)||55||66||77||88||99
+|-
+|Udoo Quad/Dual/Dual Basic|| Udoo (Seco supported)||[http://linuxgizmos.com/udoo-compact-quad-core-arm-sbc/"  Lien]||[http://shop.udoo.org/usa/quad-dual.html"  Lien]|| NXP i.MX6 Quad or DualLite (4x or 2x Cortex-A9 @ 1GHz with Vivante GPUs) Atmel SAM3X8E ARM Cortex-M3 MCU|| 1GB DDR3 RAM|| $99 (Dual Basic)  $115 (Dual) $135 (Quad)||56||67||78||89||100
+|-
+|USB Armory|| Inverse Path||[http://linuxgizmos.com/tiny-open-source-usb-stick-sbc-focuses-on-security/"  Lien]||[http://inversepath.com/usbarmory#usbarmory_top-tab"  Lien]|| NXP i.MX53 (1x Cortex-A8 @ 800MHz)|| 512MB DDR3 RAM|| $130 $155 (with USB host adapter) $185 (with adapter and 32GB microSD with Debian)||57||68||79||90||101
+|-
+|Wandboard Quad/Dual/Solo|| Wandboard.org||[http://linuxgizmos.com/wandboard-gains-quad-core-cpu-and-enhanced-gpu/"  Lien]||[http://www.wandboard.org/"  Lien]|| NXP i.MX6 Solo, DualLite, or Quad (1x, 2x, or 4x Cortex-A9 @ 1GHz) Vivante GPU|| 512MB (Solo) 1GB (Dual), 2GB (Quad) DDR3 RAM|| $79 (Solo)  $99 (Dual)  $129 Quad||58||69||80||91||102
+|-
+|Z-turn Board|| MYIR||[http://linuxgizmos.com/zynq-based-sbc-runs-linux-offers-fpga-based-io/"  Lien]||[http://www.myirtech.com/list.asp?id=502"  Lien]|| Xilinx Zynq-7010 or -7020 (2x Cortex-A9 cores @ 667MHz, plus FPGA) or optional Zynq-7020|| 1GB DDR3 RAM 512MB NAND flash (reserved)|| $99 (7010) or $119 (7020)||59||70||81||92||103
+
+|}

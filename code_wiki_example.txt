@@ -1,0 +1,12 @@
+code_wiki_example
+
+=Tableau triables des micro-ordinateurs=
+
+{|class="wikitable sortable centre" style="text-align:center; width=80%;"
+|+ '''Micro-Ordinateurs'''
+! Nom || Fabriquant || Site || Page produit || Processeur
+|-
+| 86Duino / 86Duino One ||  DM&P, 86Duino.com || http://linuxgizmos.com/arduino-compatible-boardset-runs-linux-on-x86/ || http://www.86duino.com/index.php?p=68 || P Vortex86EX (1x x86 @ 300MHz)
+|-
+| A10-OlinuXino-Lime || Olimex, OlinuXino, Mouser  || https://www.olimex.com/Products/OlinuXino/A10/A10-OlinuXino-LIME/open-source-hardware || Allwinner A10 (1x Cortex-A8 @ 1GHz)|| Mali-400 GPU
+|}
