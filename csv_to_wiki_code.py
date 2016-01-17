@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 
@@ -6,17 +6,44 @@ import os
 import csv
 
 
+
+def improve_case(case):
+    # Lien http, remplacé par Lien
+    if "http://" in case or "https://" in case:
+        # Si ' ' à la fin du lien
+        if case[-1] == ' ':
+            case = case[:-1]
+        # Si " à la fin du lien
+        if case[-1] == '"':
+            case = case[:-1]
+
+        case = "[" + case + " Lien]"
+
+        ### Si " à la fin du lien
+        ##if case[0] == '" ':
+            ##case = case[2:]
+
+    else:
+        case = case.replace("-", " ", 3)
+        case = case.replace("_", " ", 3)
+
+    return case
+
+
+
 csv_dir = os.getcwd()
-csv_file = csv_dir + "/comparatif_carte_micro_processeur.csv"
+csv_file = csv_dir + "/comparatif_carte_micro_processeur_modif_francois.csv"
 
 with open(csv_file, 'r') as f:
     csv_lines = f.read().splitlines()
 f.close()
 
-first = """Ce tableau a été crée avec les infos de: [http://linuxgizmos.com/ringing-in-2016-with-64-open-spec-hacker-friendly-sbcs/ linuxgizmos.com]
+first = """=Tableau auto en python=
+Ce tableau a été crée avec les infos de:
+* [http://linuxgizmos.com/ringing-in-2016-with-64-open-spec-hacker-friendly-sbcs/ '''linuxgizmos.com''']
 
 
-{|class="wikitable sortable" style="text-align:center;"
+{|class="wikitable sortable" style="text-align:center; font-size: 50%;"
 |+ Micro-Ordinateurs
 """
 
@@ -42,13 +69,13 @@ for columns in rows:
         new_line = ""
         for i in range(len(columns)):
             case = columns[i]
-            # Lien http, remplacé par Lien
-            if "http://" in case or "https://" in case:
-                case = "[" + case + " Lien]"
+            # Amélioration de la case
+            case = improve_case(case)
             # Ajout
             new_line += case + "||"
 
     # Dans tous les cas, suppression des ||| à la fin de la ligne
+    # je boucle 12 fois, c'est bourrin, ça marche, TODO
     for test in range(12):
         if new_line[len(new_line) - 1] == "|":
             new_line = new_line[:-1]
