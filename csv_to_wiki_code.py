@@ -32,7 +32,7 @@ def improve_case(case):
 
 
 csv_dir = os.getcwd()
-csv_file = csv_dir + "/comparatif_carte_micro_processeur_modif_francois.csv"
+csv_file = csv_dir + "/comparatif_carte_micro_processeur modif francois_V2.csv"
 
 with open(csv_file, 'r') as f:
     csv_lines = f.read().splitlines()
